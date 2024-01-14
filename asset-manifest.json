@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dashboard-ui/static/css/main.4c0a0556.css",
+    "main.js": "/dashboard-ui/static/js/main.389bc8da.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/dashboard-ui/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/butterfly.png": "/dashboard-ui/static/media/butterfly.e030344c2a7f99ba31cc.png",
+    "static/media/user.png": "/dashboard-ui/static/media/user.73011e17ea1d1579221c.png",
+    "static/media/undraw-1.svg": "/dashboard-ui/static/media/undraw-1.2efecd08dee526385d89aef763f55436.svg",
+    "static/media/home2.svg": "/dashboard-ui/static/media/home2.756bd4d105d5c8e083b5a7951348a406.svg",
+    "index.html": "/dashboard-ui/index.html",
+    "static/media/search3.svg": "/dashboard-ui/static/media/search3.9fa94ce61e47628c9869857808438dae.svg",
+    "main.4c0a0556.css.map": "/dashboard-ui/static/css/main.4c0a0556.css.map",
+    "main.389bc8da.js.map": "/dashboard-ui/static/js/main.389bc8da.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/dashboard-ui/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c0a0556.css",
+    "static/js/main.389bc8da.js"
+  ]
+}
